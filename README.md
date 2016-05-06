@@ -10,8 +10,8 @@
 
 ## Useage
 
-#### 安装
-* bower install -save poper
+#### npm 安装
+* bower install poper --save
 
 #### 引用
 ```html
