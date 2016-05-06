@@ -11,7 +11,7 @@
 ## Useage
 
 #### npm 安装
-* bower install poper --save
+* bower install https://github.com/shawndxl/poper.git
 
 #### 引用
 ```html
