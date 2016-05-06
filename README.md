@@ -8,7 +8,16 @@
 
 ### Author Dxl
 
+### Useage
+----
+#### 安装
+* bower install -save poper
+#### 引用
+```html
+<script type="../js/poper.js"></script>
+```
 ### API
+----
 #### create poper
 ```js
 poper.open({
@@ -25,6 +34,7 @@ poper.close();
 ```
 
 ### demo
+----
 #### one btn
 ```js
 var a = 'hello world!<br>',
