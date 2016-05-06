@@ -6,8 +6,6 @@
   "devDependencies": {},
   "dependencies": {},
   "scripts": {
-    "_update_version": "node version.js",
-    "debug": "fis3 server start --type php --no-browse -p 8088 && fis3 release debug -c && fis3 release debug -wL",
-    "ifreetalk": "npm run _update_version && fis3 release ifreetalk -c"
+    "_update_version": "node version.js"
   }
 }
