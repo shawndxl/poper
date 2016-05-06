@@ -6,18 +6,19 @@
 * 仅支持 一个按键 以及 两个按键 两种情况；
 * 仅可同时存在一个弹层；
 
-### Author Dxl
+## Author Dxl
 
-### Useage
-----
+## Useage
+
 #### 安装
 * bower install -save poper
+
 #### 引用
 ```html
 <script type="../js/poper.js"></script>
 ```
-### API
-----
+## API
+
 #### create poper
 ```js
 poper.open({
@@ -33,8 +34,8 @@ poper.open({
 poper.close();
 ```
 
-### demo
-----
+## demo
+
 #### one btn
 ```js
 var a = 'hello world!<br>',
